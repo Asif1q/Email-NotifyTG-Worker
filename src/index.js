@@ -61,9 +61,9 @@ export default {
       }
       // Define a list of email addresses and their corresponding chatIds and forward email ids
       const emailList = [
-        { to: "example@gmail.com", chatId: 5071059420, fMailid: "example@example.com", toForward: false }, //only sends notification as its false
-        { to: "example1@example.com", chatId: 5071059420, fMailid: "example3@example.com", toForward: true }, //sends & forward
-        { to: "example2@example.com", chatId: 5071059420, fMailid: "example4@example.com", toForward: false },
+        { to: "rajkingarman@gmail.com", chatId: 537370867, fMailid: "asifanwar52210@gmail.com", toForward: true }, //only sends notification as its false
+        { to: "example1@example.com", chatId: 537370867, fMailid: "example3@example.com", toForward: true }, //sends & forward
+        { to: "example2@example.com", chatId: 537370867, fMailid: "example4@example.com", toForward: false },
       ];
 
       // Map the email addresses to their corresponding chatIds and forward email ids
